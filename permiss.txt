@@ -1,0 +1,5 @@
+//Users with permissions of administrador
+user->camilomonteal@hotmail.com / pass->45454545
+
+//User of permissions of user
+user->email / pass-> psd
